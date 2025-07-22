@@ -7,6 +7,6 @@ To set up the environment, run:
 ```bash
 conda env create --file environment.yaml
 conda activate [your_env_name]  # Replace with the actual environment name specified in environment.yaml
-
+'''bash
 
 
